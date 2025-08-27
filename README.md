@@ -2,9 +2,9 @@
 
 A clean and modern web design concept for a fast-food website.
 
-![Homepage Design](1.png)
+![Homepage Design](images/1.png)
 
-![Web Design](2.png)
+![Web Design](images/2.png)
 
 ## About
 This design includes:
