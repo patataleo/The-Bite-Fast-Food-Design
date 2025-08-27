@@ -1,6 +1,6 @@
 # _config.yml
 title: "The Bite Fast Food Design"
 description: "Web design concept for The Bite Fast Food"
-baseurl: ""  # leave empty if using username.github.io/repo
+baseurl: "" 
 url: "https://patataleo.github.io/the-bite-fast-food"
 theme: minima
