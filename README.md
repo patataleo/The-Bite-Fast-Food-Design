@@ -28,5 +28,3 @@ This design concept focuses on:
 - Color palette inspiration: #311300, #FFF1DD, #F8C11A
 
 ---
-
-## 📂 Repository Structure
